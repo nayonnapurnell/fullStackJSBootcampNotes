@@ -4,7 +4,7 @@
 
 ## Table of Contents
   - [Subjects](#subjects)
-  - [SQL](#sql)
+   * [SQL](#sql)
   - [License](#license)
   - [Author](#author)
  
