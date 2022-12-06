@@ -2,6 +2,10 @@
 
 ## Project Description
 
+### Left off on 01:32:12 SQL Day 2
+https://zoom.us/rec/play/YPFA9HnWDhiZS1mHYCtwzsvANixc0RJOpqn63NmdHwf8jU8NJjMa1RRXU62qVIIpYoLzqcBfpJ9CdPCR.BbNz_XEpxBdtRZSk
+
+
 ## Table of Contents
  * [Subjects](#subjects)
     * [MYSQL](#mysql)
